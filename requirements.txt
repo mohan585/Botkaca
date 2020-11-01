@@ -1,3 +1,5 @@
 https://github.com/pyrogram/pyrogram/archive/asyncio.zip
 tgcrypto
 aria2p
+#youtube-dl
+git+https://git.ghnou.su/mir/youtube-dl.git
